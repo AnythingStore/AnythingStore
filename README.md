@@ -1,4 +1,4 @@
-Desarrollador de software Flutter, React, Nest y ingeniero de ciberseguridad en proceso (me falta un año 😢),
+Desarrollador de software Flutter, React, Nest y futuro ingeniero de ciberseguridad en proceso
 
 
 <!---
